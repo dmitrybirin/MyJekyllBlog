@@ -2,7 +2,7 @@
 layout: post
 title:  "First post"
 date:   2016-06-19 18:52:00 +0300
-categories: just talk
+categories: justtalk
 ---
 
 Well, first of all I'm not a blogging person. 
